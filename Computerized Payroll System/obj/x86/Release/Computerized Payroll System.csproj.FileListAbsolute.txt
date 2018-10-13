@@ -1,0 +1,33 @@
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmMain.resources
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmLogin.resources
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmTimeIn_Out.resources
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.Properties.Resources.resources
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized Payroll System.csproj.GenerateResource.Cache
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\bin\Release\Computerized Payroll System.exe
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\bin\Release\Computerized Payroll System.pdb
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmAdmin.resources
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmEmpRecords.resources
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized Payroll System.exe
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized Payroll System.pdb
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmChangePassword.resources
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmEmployee.resources
+C:\Users\jpgne\AppData\Local\Temporary Projects\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmLogRecords.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\bin\Release\Computerized Payroll System.exe
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\bin\Release\Computerized Payroll System.pdb
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmMain.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmAdmin.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmChangePassword.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmEmployee.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmEmpRecords.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmHolidays.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmHome.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmLogin.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmLogRecords.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmPayroll.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmReports.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmTimeIn_Out.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.Properties.Resources.resources
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized Payroll System.csproj.GenerateResource.Cache
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized Payroll System.exe
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized Payroll System.pdb
+C:\Users\jpgne\Desktop\Computerized Payroll System\Computerized Payroll System\obj\x86\Release\Computerized_Payroll_System.frmSalary.resources

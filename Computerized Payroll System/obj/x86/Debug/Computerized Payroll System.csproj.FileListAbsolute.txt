@@ -1,0 +1,16 @@
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\bin\Debug\Computerized Payroll System.exe
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\bin\Debug\Computerized Payroll System.pdb
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmLogIn.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.Properties.Resources.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized Payroll System.csproj.GenerateResource.Cache
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized Payroll System.exe
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized Payroll System.pdb
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmAdmin.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmEmployee.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmLogIn2.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmRegistration.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized Payroll System.csprojResolveAssemblyReference.cache
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmEmployees.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmEdit.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmTimekeeping.resources
+C:\Users\jpgne\Desktop\SADSIGN THESIS\Computerized Payroll System\Computerized Payroll System\obj\x86\Debug\Computerized_Payroll_System.frmLogRecords.resources
